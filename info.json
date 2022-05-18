@@ -1,0 +1,14 @@
+{
+  "name": "biter-trails",
+  "version": "0.0.1",
+  "title": "Biter Trails",
+  "author": "asher_sky",
+  "contact": "",
+  "homepage": "",
+  "description": "",
+  "factorio_version": "1.1",
+  "dependencies": [
+	"base",
+  "flib"
+	]
+}
