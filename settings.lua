@@ -74,10 +74,10 @@ local biterTrailsColorSync = {
   name = "biter-trails-color-type",
   setting_type = "runtime-global",
   order = "g",
-  default_value = "spidertron",
+  default_value = "aura",
   allowed_values = {
-    "spidertron",
-    "rainbow",
+    "aura",
+    "trail",
   }
 }
 
