@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 31JUL2022
+  Changes:
+    - removed info icons for mod settings since the game adds them automatically now
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 17MAY2022
   Changes:
